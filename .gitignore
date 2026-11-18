@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.tmp/
+data/
+*.parquet
+.env
+.env.*
+!.env.example
+.databrickscfg
+.databricks/
+
+# Material pessoal e artefatos de estudo, fora da entrega pública.
+material-estudo/
+output/
+tmp/

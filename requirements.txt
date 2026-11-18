@@ -1,0 +1,3 @@
+# Dependências locais; Spark é fornecido pelo Databricks.
+pyarrow==23.0.1
+matplotlib==3.11.2
